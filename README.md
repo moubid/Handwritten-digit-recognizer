@@ -13,6 +13,8 @@ used libraries/frameworks in the project:
 5.matplot
 6.h5py
 
+used python version: 3.9
+
 This project is open-source, feel free to developing it's features!
 
 Licensed under the MIT License.
