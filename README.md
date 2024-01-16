@@ -15,6 +15,6 @@ used libraries/frameworks in the project:
 
 used python version: 3.9
 
-This project is open-source, feel free to developing it's features!
+This project is open-source, feel free to develop it's features!
 
 Licensed under the MIT License.
